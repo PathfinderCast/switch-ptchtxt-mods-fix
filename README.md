@@ -1,3 +1,4 @@
-# switch-ptchtxt-mods
+# switch-ptchtxt-mods-fix
 
-Want more infromation or just say thanks? https://linktr.ee/theboy181 
+This is a fork of [theboy181/switch-ptchtxt-mods](https://github.com/theboy181/switch-ptchtxt-mods) but fixes filename issues with cloning.
+
